@@ -1,1 +1,54 @@
+#headerPic {
+	background-image: url(../img/milkbg.jpg);
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+	
+}
 
+h1.special {
+	font-size: 450%;
+	color: white;
+}
+
+p.special {
+	font-size: 150%;
+	color: white;
+}
+
+.new {
+	color: white;
+	background-color: crimson;
+	padding: 0px 8px;
+	font-weight: bold;
+	border-radius:7px;
+}
+
+#textbox {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 50%;
+    padding: 50px 50px;
+    margin: 10% auto;
+}
+#cookies {
+	margin-bottom: 30px;
+}
+#aboutUs {
+	background-color: rgba(197, 195, 195, .8);
+	background-image: url(../img/cmonster.png);
+	background-position: left bottom;
+	background-repeat: no-repeat;
+	padding: 10px 10px 140px 90px;
+}
+#explanation {
+	margin-left: 160px;
+	text-align: left;
+
+}
+
+#contactUs {
+	background-color: rgb(10, 154, 198);
+	color: white;
+	line-height: 2em;
+	margin-bottom: 5px;
+	padding-bottom: 25px; 
+}
